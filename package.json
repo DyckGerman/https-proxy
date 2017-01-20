@@ -1,0 +1,20 @@
+{
+  "name": "https-proxy",
+  "version": "0.0.0",
+  "description": "DEBUG ONLY! NOT SECURE!\nEluminates https proxy complexity.\nListens HTTP POST requests with options for subsequent https request and sends its response back via http.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DyckGerman/https-proxy.git"
+  },
+  "author": "DyckGerman <dyckgerman@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DyckGerman/https-proxy/issues"
+  },
+  "homepage": "https://github.com/DyckGerman/https-proxy#readme"
+}
